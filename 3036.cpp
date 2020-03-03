@@ -1,4 +1,4 @@
-/* algoritm practice 2020-03-03 by cksgnlcjswoo@naver.com*/
+/* algoritm practice on 2020-03-03 by cksgnlcjswoo@naver.com*/
 #include <iostream>
 
 using namespace std;
