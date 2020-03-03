@@ -1,1 +1,1 @@
- wecome git world
+ welcome git world
